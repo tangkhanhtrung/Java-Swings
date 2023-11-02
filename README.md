@@ -1,4 +1,5 @@
-1.	Calendar
+<h1>Java Swing course project</h1>
+<h3>Calendar</h3>	
    
 1.1	Tổng quan sản phẩm
   	
@@ -39,7 +40,7 @@ Hàm dùng để sắp xếp ngày tháng theo thứ tự yyyy-M-d:
 
  ![image](https://github.com/tangkhanhtrung/Java-Swings/assets/53096926/3869a7d0-d4ac-4578-98b6-e5bef34c04df)
 
-2. Student Management
+<h3>Student Management</h3>
 2.1 Tổng quan sản phẩm
 
 ![image](https://github.com/tangkhanhtrung/Java-Swings/assets/53096926/969fff32-92f4-4ab7-9ee6-4f9319c50e4d)
@@ -88,7 +89,7 @@ Nút Exit:
  
 ![image](https://github.com/tangkhanhtrung/Java-Swings/assets/53096926/1c2b521b-e9b4-48b3-9ca6-13c630cf5ec5)
 
-3. Drawing2D:
+<h3>Drawing2D</h3>
 	3.1. Draw Retangle
 		3.1.1. Tổng quan sản phẩm
 		  ![image](https://github.com/tangkhanhtrung/Java-Swings/assets/53096926/ed1714fa-af5a-44a3-82f2-409cf1113d0e)
@@ -122,7 +123,7 @@ Nút Exit:
  ![image](https://github.com/tangkhanhtrung/Java-Swings/assets/53096926/81d52230-ff6d-4e7b-9690-1d3246c75ac2)
 
 
-4. SlideShow
+<h3>SlideShow</h3> 
 4.1. Tổng quan về sản phẩm:
 	 
 ![image](https://github.com/tangkhanhtrung/Java-Swings/assets/53096926/54805e20-d5bc-4f05-b5c6-6a287c40f7f7)
@@ -152,7 +153,7 @@ Nút Next
 ![image](https://github.com/tangkhanhtrung/Java-Swings/assets/53096926/2d814d69-476b-4b3b-bbe3-448725488c0e)
 
 
-5. KeyListener & Timer
+<h3>KeyListener & Timer</h3>
 	5.1. KeyListener
 		5.1.1. Tổng quan về sản phẩm
    
@@ -208,7 +209,7 @@ Phần dùng để xét thời gian chuyển màu
 ![image](https://github.com/tangkhanhtrung/Java-Swings/assets/53096926/597003d0-ca11-4c70-83ed-b1f5c8ccf499)
 
 
-6. ModifierXMLFile
+<h3>ModifierXMLFile</h3>
 	6.1. Tổng quan về sản phẩm
 
 ![image](https://github.com/tangkhanhtrung/Java-Swings/assets/53096926/49acc5d6-12f0-4013-b763-c3da35f47a73)
