@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<company>
+    <employee id="01">
+        <name>Tran Hoang Tien </name>
+        <salary>1000</salary>
+    </employee>
+    <employee id="02">
+        <name>Tran Quynh Nhi</name>
+        <salary>1600</salary>
+    </employee>
+    <employee id="03">
+        <name>Cao Huynh Toan</name>
+        <salary>2000</salary>
+    </employee>
+    <employee id="04">
+        <name>Ta Van Huy</name>
+        <salary>1500</salary>
+    </employee>
+    <employee id="05">
+        <name>Le Bao Tran</name>
+        <salary>3000</salary>
+    </employee>
+    <employee id="06">
+        <name>Tran Tien Bao</name>
+        <salary>3000</salary>
+    </employee>
+</company>
